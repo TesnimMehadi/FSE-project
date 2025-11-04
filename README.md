@@ -1,5 +1,5 @@
 # GROUP-7
-A Peer Mentorship System
+A Peer Mentorship System:
 The platform promotes self-improvement, leadership, and collaboration while reducing the barriers to finding academic and personal support within the student community. 
 Its peer-to-peer design ensures scalability, flexibility, and privacy by enabling direct communication between users.
 
